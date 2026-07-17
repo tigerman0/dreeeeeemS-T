@@ -1,0 +1,28 @@
+{
+  "Plugins": [
+    {
+      "Title": "Multimedia",
+      "links": [
+        [
+          "Example Player",
+          "https://your-domain.example/files/python3-enigma2-plugin-extensions-exampleplayer_1.2_all.deb",
+          "1.2"
+        ],
+        [
+          "Example Script",
+          "https://your-domain.example/files/example-installer.sh"
+        ]
+      ]
+    },
+    {
+      "Title": "System",
+      "links": [
+        [
+          "Example Tool",
+          "https://your-domain.example/files/python3-enigma2-plugin-extensions-exampletool_2.0_all.deb",
+          "2.0"
+        ]
+      ]
+    }
+  ]
+}
