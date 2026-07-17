@@ -1,26 +1,1052 @@
 {
   "Plugins": [
     {
-      "Title": "Multimedia",
+      "Title": "01 - Panels / البانلات",
       "links": [
         [
-          "Example Player",
-          "https://your-domain.example/files/armv7ahf-neon-enigma2-plugin-extensions-exampleplayer_1.2_all.ipk",
-          "1.2"
+          "AJPanel",
+          "https://raw.githubusercontent.com/AMAJamry/AJPanel/main/installer.sh",
+          "N/A"
         ],
         [
-          "Example Script",
-          "https://your-domain.example/files/example-installer.sh"
+          "Eliesat Panel",
+          "https://gitlab.com/eliesat/eliesatpanel/-/raw/main/eliesatpanel.sh",
+          "N/A"
+        ],
+        [
+          "Ciefp Plugins",
+          "https://raw.githubusercontent.com/ciefp/CiefpPlugins/main/installer.sh",
+          "N/A"
+        ],
+        [
+          "Ciefp Settings Panel",
+          "https://raw.githubusercontent.com/ciefp/CiefpsettingsPanel/main/installer.sh",
+          "N/A"
+        ],
+        [
+          "Emil Panel Pro",
+          "https://github.com/emilnabil/download-plugins/raw/refs/heads/main/EmilPanelPro/emilpanelpro.sh",
+          "N/A"
+        ],
+        [
+          "Levi Addon Manager",
+          "https://raw.githubusercontent.com/levi-45/Addon/main/installer.sh",
+          "N/A"
+        ],
+        [
+          "Linuxsat Panel",
+          "https://raw.githubusercontent.com/Belfagor2005/LinuxsatPanel/main/installer.sh",
+          "N/A"
+        ],
+        [
+          "Magic Panel Gold",
+          "https://raw.githubusercontent.com/Ham-ahmed/G10/refs/heads/main/MagicPanelGold-install.sh",
+          "N/A"
+        ],
+        [
+          "ONE Updater E2",
+          "https://raw.githubusercontent.com/Sat-Club/ONEupdaterE2/main/installer.sh",
+          "N/A"
+        ],
+        [
+          "Panel AIO",
+          "https://raw.githubusercontent.com/OliOli2013/PanelAIO-Plugin/main/installer.sh",
+          "N/A"
+        ],
+        [
+          "Smart Addons Panel",
+          "https://raw.githubusercontent.com/emilnabil/download-plugins/refs/heads/main/SmartAddonspanel/smart-Panel.sh",
+          "2.0"
+        ],
+        [
+          "TV Addon",
+          "https://raw.githubusercontent.com/Belfagor2005/tvPanel/main/installer.sh",
+          "N/A"
         ]
       ]
     },
     {
-      "Title": "System",
+      "Title": "02 - IPTV Clients / مشغلات IPTV",
       "links": [
         [
-          "Example Tool",
-          "https://your-domain.example/files/mips32el-enigma2-plugin-extensions-exampletool_2.0_all.ipk",
+          "BouquetMakerXtream",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/bouquetmakerxtream/bouquetmakerxtream.sh",
+          "1.77"
+        ],
+        [
+          "E2iPlayer OEM",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/e2iplayer-oem/e2iplayer-oem.sh",
+          "07.06.2026"
+        ],
+        [
+          "E2M3U2Bouquet",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/e2m3u2bouquet/e2m3u2bouquet.sh",
+          "3.0.3"
+        ],
+        [
+          "E-Stalker",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/estalker/estalker.sh",
+          "1.40"
+        ],
+        [
+          "IPTV Dream",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/iptvdream/iptvdream.sh",
+          "6.6.1"
+        ],
+        [
+          "JediMakerXtream",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/jedimakerxtream/jedimakerxtream.sh",
+          "6.40"
+        ],
+        [
+          "MultiStalker Pro",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/multistalker-pro/multi-stalkerpro.sh",
+          "1.2"
+        ],
+        [
+          "My Hybrid IPTV",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/myhybridiptv/myhybridiptv.sh",
+          "2.1.r7"
+        ],
+        [
+          "Stalker Portal Converter",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/stalkerportalconverter/stalkerportalconverter.sh",
+          "1.6"
+        ],
+        [
+          "XCPlugin Forever",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/xcplugin-forever/xcplugin-forever.sh",
+          "5.2"
+        ],
+        [
+          "XKlass",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/xklass/xklass.sh",
+          "1.80"
+        ],
+        [
+          "XPortal",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/xportal/xportal.sh",
+          "4.1"
+        ],
+        [
+          "XStreamity",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/xstreamity/xstreamity.sh",
+          "5.57"
+        ],
+        [
+          "YouTube",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/youtube/youtube.sh",
+          "2025.03.10"
+        ],
+        [
+          "ZouPlayer",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/zouplayer/zouplayer.sh",
+          "1.1"
+        ]
+      ]
+    },
+    {
+      "Title": "03 - EPG, Posters & Subtitles / الدليل والترجمة",
+      "links": [
+        [
+          "AI Subtitles Hybrid",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/aisubtitle-hybrid/aisubtitle-hybrid.sh",
+          "2.5"
+        ],
+        [
+          "AI Translate",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/aitranslate/aitranslate.sh",
+          "3.1"
+        ],
+        [
+          "EPG Grabber",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/epggrabber/epggrabber.sh",
+          "25.0"
+        ],
+        [
+          "EPG Import",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/epgimport/epgimport.sh",
           "2.0"
+        ],
+        [
+          "EPG Translator",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/epgtranslator/epgtranslator.sh",
+          "1.4.r2"
+        ],
+        [
+          "Global Translate Pro",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/globaltranslatepro/globaltranslatepro.sh",
+          "6.6.1"
+        ],
+        [
+          "IMDb",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/imdb/imdb.sh",
+          "2.1"
+        ],
+        [
+          "Jedi EPG Xtream",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/jediepgxtream/jediepgxtream.sh",
+          "2.15"
+        ],
+        [
+          "SubsSupport",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/subssupport/subssupport.sh",
+          "1.8.0.r9"
+        ],
+        [
+          "SubsSupport Pro",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/subssupportpro/subssupportpro.sh",
+          "1.0.2"
+        ],
+        [
+          "TMDb",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/tmdb/tmbd.sh",
+          "8.6.r7"
+        ],
+        [
+          "Translate AI",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/translateai/translateai.sh",
+          "6.6"
+        ],
+        [
+          "XtraEvent 4.5",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/xtraevent/xtraevent-4.5.sh",
+          "4.5"
+        ],
+        [
+          "XtraEvent Mnasr",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/xtraevent/xtraevent.sh",
+          "7.1"
+        ]
+      ]
+    },
+    {
+      "Title": "04 - Utilities & System / أدوات النظام",
+      "links": [
+        [
+          "Arabic Menus Support",
+          "https://gitlab.com/eliesat/systemplugins/-/raw/main/arabic-menus/arabic-menus.sh",
+          "shabah.net"
+        ],
+        [
+          "Arabic Savior",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/arabicsavior/arabicsavior.sh",
+          "2.5"
+        ],
+        [
+          "Cache Flush",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/cacheflush/cacheflush.sh",
+          "2.2"
+        ],
+        [
+          "Command Center",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/commandcenter/commandcenter.sh",
+          "1.2"
+        ],
+        [
+          "Crash Log Viewer",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/crashlogviewer/crashlogviewer.sh",
+          "1.8"
+        ],
+        [
+          "Disk & CPU Temperature",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/diskcputemp/diskcputemp.sh",
+          "1.2"
+        ],
+        [
+          "File Commander",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/filecommander/filecommander.sh",
+          "2024.08.31"
+        ],
+        [
+          "Hardware Info",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/hardwareinfo/hardwareinfo.sh",
+          "5.2"
+        ],
+        [
+          "Internet Speed Test",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/internetspeedtest/internetspeedtest.sh",
+          "1.7"
+        ],
+        [
+          "New Virtual Keyboard",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/newvirtualkeyboard/newvirtualkeyboard.sh",
+          "13.8"
+        ],
+        [
+          "Satellite Manager",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/satellitemanager/satellitemanager.sh",
+          "1.0"
+        ],
+        [
+          "Screen Recorder",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/screenrecorder/screenrecorder.sh",
+          "4.1"
+        ],
+        [
+          "TS Sat Editor",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/ts-sateditor/ts-sateditor.sh",
+          "4.4"
+        ],
+        [
+          "WiFi Manager",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/wifimanager/wifimanager.sh",
+          "1.1"
+        ],
+        [
+          "WireGuard VPN",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/wireguard-vpn/wireguard-vpn.sh",
+          "15.6"
+        ],
+        [
+          "XML Update",
+          "https://gitlab.com/eliesat/systemplugins/-/raw/main/xmlupdate/xmlupdate.sh",
+          "6.8"
+        ]
+      ]
+    },
+    {
+      "Title": "05 - Backup & Multiboot / النسخ والإقلاع المتعدد",
+      "links": [
+        [
+          "Backup Flash",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/backupflashe/backupflashe.sh",
+          "12.4"
+        ],
+        [
+          "Backup Suite",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/backupsuite/backupsuite.sh",
+          "3.0.r10"
+        ],
+        [
+          "Full Backup",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/fullbackup/fullbackup.sh",
+          "7.2"
+        ],
+        [
+          "Image Downloader",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/image-downloader/image-downloader.sh",
+          "2.6"
+        ],
+        [
+          "Multiboot FlashOnline",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/multiboot-flashonline/multiboot-flashonline.sh",
+          "7.1"
+        ],
+        [
+          "NeoBoot 9.65",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/neoboot/neoboot-9.65.sh",
+          "9.65"
+        ],
+        [
+          "NFR4XBoot",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/nfr4xboot/nfr4xboot.sh",
+          "2.0"
+        ],
+        [
+          "OPDBoot",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/opdboot/opdboot.sh",
+          "3.1.20251102"
+        ],
+        [
+          "OpenMultiBoot",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/openmultiboot/openmultiboot.sh",
+          "1.0"
+        ],
+        [
+          "RedFlag Flash Tool",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/redflagflashtool/redflagflashtool.sh",
+          "3.0"
+        ]
+      ]
+    },
+    {
+      "Title": "06 - Softcams & Readers / الكامات",
+      "links": [
+        [
+          "Oscam Audi06",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/softcams/audi06/oscam.sh",
+          "11958.emu.r802"
+        ],
+        [
+          "Oscam Youchie",
+          "https://gitlab.com/eliesat/softcams/-/raw/main/youchie/oscam.sh",
+          "11886.emu.r803"
+        ],
+        [
+          "Oscam iCam New",
+          "https://gitlab.com/eliesat/softcams/-/raw/main/kite888/oscamicamnew-kite888.sh",
+          "11886.emu.r802"
+        ],
+        [
+          "Oscam Levi45",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/softcams/levi45/oscam.sh",
+          "11965.emu.r803"
+        ],
+        [
+          "Oscam Mohamed OS",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/softcams/mohamed_os/oscam.sh",
+          "11965.emu.r802"
+        ],
+        [
+          "Ncam Fairbird",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/softcams/fairbird/ncam.sh",
+          "15.8.r0"
+        ],
+        [
+          "Ncam",
+          "https://gitlab.com/eliesat/softcams/-/raw/main/mohamed-os/ncam.sh",
+          "15.2"
+        ],
+        [
+          "Mgcamd",
+          "https://gitlab.com/eliesat/softcams/-/raw/main/mgcamd/mgcamd.sh",
+          "1.46.r3"
+        ],
+        [
+          "Alternative Softcam Manager",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/alternativesoftcammanager/alternativesoftcammanager.sh",
+          "2.0"
+        ],
+        [
+          "Oscam Status",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/oscamstatus/oscamstatus.sh",
+          "7.40"
+        ],
+        [
+          "E2 Reader Adder",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/e2reader/enigma2readeradder.sh",
+          "3.0"
+        ],
+        [
+          "Easy CCcam",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/easy-cccam/easy-cccam.sh",
+          "0.2"
+        ],
+        [
+          "Key Adder",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/keyadder/keyadder.sh",
+          "9.5"
+        ],
+        [
+          "Emu Installer",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/emuinstaller/emuinstaller.sh",
+          "1.0"
+        ],
+        [
+          "Biss Feed AutoKey",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/bissfeedautokey/bissfeedautokey.sh",
+          "2.8"
+        ]
+      ]
+    },
+    {
+      "Title": "07 - Skins / السكينات",
+      "links": [
+        [
+          "Aglare FHD ATV",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/skins/aglare-fhd-atv/aglare-fhd-atv.sh",
+          "7.8"
+        ],
+        [
+          "Aglare FHD PLI",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/skins/aglare-fhd-pli/aglare-fhd-pli.sh",
+          "7.0"
+        ],
+        [
+          "Fury FHD",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/skins/fury/fury.sh",
+          "7.4"
+        ],
+        [
+          "Jihad Skin",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/skins/jihad/jihad.sh",
+          "2.16"
+        ],
+        [
+          "KIII Pro",
+          "https://gitlab.com/eliesat/skins/-/raw/main/all/KIII-pro/KIII-pro.sh",
+          "3.3"
+        ],
+        [
+          "Luka FHD",
+          "https://gitlab.com/eliesat/skins/-/raw/main/all/luka-fhd/luka-fhd.sh",
+          "1.5"
+        ],
+        [
+          "Luka FHD PLI",
+          "https://gitlab.com/eliesat/skins/-/raw/main/all/luka-fhd-pli/luka-fhd-pli.sh",
+          "1.1"
+        ],
+        [
+          "Metrix FHD",
+          "https://gitlab.com/eliesat/skins/-/raw/main/all/metrixfhd/metrix.sh",
+          "3.12"
+        ],
+        [
+          "Maxy FHD",
+          "https://gitlab.com/eliesat/skins/-/raw/main/all/maxy-fhd/maxy-fhd.sh",
+          "1.4"
+        ],
+        [
+          "Maxi FHD PLI",
+          "https://gitlab.com/eliesat/skins/-/raw/main/all/maxy-fhd/maxy-fhd-pli.sh",
+          "1.0"
+        ],
+        [
+          "OpenBH Green FHD",
+          "https://gitlab.com/eliesat/skins/-/raw/main/obh/openbhgreenfhd/openbhgreenfhd.sh",
+          "5.2"
+        ],
+        [
+          "QXKlass OpenBH",
+          "https://gitlab.com/eliesat/skins/-/raw/main/obh/qxklass-obh/qxklass-obh.sh",
+          "2.0"
+        ],
+        [
+          "QXKlass OpenVix",
+          "https://gitlab.com/eliesat/skins/-/raw/main/openvix/qxklass-ovix/qxklass-ovix.sh",
+          "2.0"
+        ],
+        [
+          "Premium FHD Black",
+          "https://gitlab.com/eliesat/skins/-/raw/main/all/premium-fhd/premiumfhd-black.sh",
+          "3.1"
+        ],
+        [
+          "Premium FHD Blue",
+          "https://gitlab.com/eliesat/skins/-/raw/main/all/premium-fhd/premiumfhd-blue.sh",
+          "3.1"
+        ],
+        [
+          "Red Knight FHD",
+          "https://gitlab.com/eliesat/skins/-/raw/main/all/red-knight-fhd/red-knight-fhd.sh",
+          "1.0"
+        ],
+        [
+          "Slyk Q 1080",
+          "https://gitlab.com/eliesat/skins/-/raw/main/all/slyk-q-1080/slyk-q-1080.sh",
+          "2.50"
+        ],
+        [
+          "XDreamy FHD",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/skins/xdreamy/xdreamy.sh",
+          "7.0"
+        ],
+        [
+          "Youchie OpenBH FHD",
+          "https://gitlab.com/eliesat/skins/-/raw/main/all/youchie-pli-fhd/youchie-pli-fhd.sh",
+          "1.0.2"
+        ],
+        [
+          "Youchie PLI FHD",
+          "https://gitlab.com/eliesat/skins/-/raw/main/all/youchie-pli-fhd/pli/youchie-pli-fhd.sh",
+          "1.0.3"
+        ]
+      ]
+    },
+    {
+      "Title": "08 - Picons / البيكونات",
+      "links": [
+        [
+          "Motor Picons - Service Name",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/picons/picons-all.sh",
+          "16.06.2026"
+        ],
+        [
+          "Picons 30.0W",
+          "https://gitlab.com/eliesat/picons/-/raw/main/picons-30w.sh",
+          "06.01.2026"
+        ],
+        [
+          "Picons 7.0W",
+          "https://gitlab.com/eliesat/picons/-/raw/main/picons-7w.sh",
+          "25.01.2026"
+        ],
+        [
+          "Picons 0.8W",
+          "https://gitlab.com/eliesat/picons/-/raw/main/picons-0.8w.sh",
+          "12.01.2026"
+        ],
+        [
+          "Picons 13.0E",
+          "https://gitlab.com/eliesat/picons/-/raw/main/picons-13e.sh",
+          "12.01.2026"
+        ],
+        [
+          "Picons 16.0E",
+          "https://gitlab.com/eliesat/picons/-/raw/main/picons-16e.sh",
+          "13.01.2026"
+        ],
+        [
+          "Picons 19.2E",
+          "https://gitlab.com/eliesat/picons/-/raw/main/picons-19.2e.sh",
+          "13.01.2026"
+        ],
+        [
+          "Picons 23.5E",
+          "https://gitlab.com/eliesat/picons/-/raw/main/picons-23.5e.sh",
+          "13.01.2026"
+        ],
+        [
+          "Picons 26.0E",
+          "https://gitlab.com/eliesat/picons/-/raw/main/picons-26e.sh",
+          "12.01.2026"
+        ],
+        [
+          "Picons 28.2E",
+          "https://gitlab.com/eliesat/picons/-/raw/main/picons-28e.sh",
+          "13.01.2026"
+        ],
+        [
+          "Picons 39.0E",
+          "https://gitlab.com/eliesat/picons/-/raw/main/picons-39e.sh",
+          "13.01.2026"
+        ],
+        [
+          "Picons 42.0E",
+          "https://gitlab.com/eliesat/picons/-/raw/main/picons-42e.sh",
+          "14.01.2026"
+        ],
+        [
+          "Picons 52.0E",
+          "https://gitlab.com/eliesat/picons/-/raw/main/picons-52e.sh",
+          "16.01.2026"
+        ],
+        [
+          "Picons Transparent",
+          "https://gitlab.com/eliesat/picons/-/raw/main/picons-transparent.sh",
+          "15.02.2026"
+        ],
+        [
+          "Picons White",
+          "https://gitlab.com/eliesat/picons/-/raw/main/picons-white.sh",
+          "15.02.2026"
+        ]
+      ]
+    },
+    {
+      "Title": "09 - Channel Lists & Tuner / القنوات والترددات",
+      "links": [
+        [
+          "Satellites.xml",
+          "https://gitlab.com/eliesat/picons/-/raw/main/satellites.xml.sh",
+          "25.05.2026"
+        ],
+        [
+          "Abou Omar Motor Settings",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/settings/motor/abouomar-motor.sh",
+          "04.06.2026"
+        ],
+        [
+          "Atef Motor Settings",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/settings/motor/atef-motor.sh",
+          "14.04.2026"
+        ],
+        [
+          "Ciefp Motor Settings",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/settings/motor/ciefp-motor.sh",
+          "01.07.2026"
+        ],
+        [
+          "Hamid Motor Settings",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/settings/motor/hamid-motor.sh",
+          "27.06.2026"
+        ],
+        [
+          "Mnasr Motor Settings",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/settings/motor/mnasr-motor.sh",
+          "27.05.2026"
+        ],
+        [
+          "Morpheus883 Motor Settings",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/settings/motor/morpheus883-motor.sh",
+          "31.05.2026"
+        ],
+        [
+          "Refaey Motor Settings",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/settings/motor/refaey-motor.sh",
+          "21.05.2026"
+        ],
+        [
+          "Vhannibal Motor Settings",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/settings/motor/vhannibal-motor.sh",
+          "04.06.2026"
+        ],
+        [
+          "Wahba Motor Settings",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/settings/motor/wahba-motor.sh",
+          "20.06.2026"
+        ],
+        [
+          "Frequency List - OE Alliance",
+          "https://gitlab.com/eliesat/settings/-/raw/main/oe-alliance/installer.sh",
+          "up-to-date"
+        ],
+        [
+          "Frequency List - OpenPLI",
+          "https://gitlab.com/eliesat/settings/-/raw/main/eliesat/installer.sh",
+          "up-to-date"
+        ],
+        [
+          "DiSEqC 1.0 - 4 Ports",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/settings/tuner/tuner-1.0.sh",
+          "1.0"
+        ],
+        [
+          "DiSEqC 1.1 - 8 Ports",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/settings/tuner/tuner-1.1.sh",
+          "1.1"
+        ],
+        [
+          "USALS Motor",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/settings/tuner/tuner-1.3.sh",
+          "USALS"
+        ]
+      ]
+    },
+    {
+      "Title": "10 - Feeds & Dependencies / الفيدات والمكتبات",
+      "links": [
+        [
+          "Eliesat Feed",
+          "https://gitlab.com/eliesat/scripts/-/raw/main/feed/eliesat-feed.sh",
+          "1.0"
+        ],
+        [
+          "Emil Feed",
+          "https://gitlab.com/eliesat/scripts/-/raw/main/feed/emil-feed.sh",
+          "1.0"
+        ],
+        [
+          "OE Alliance Picons Feed",
+          "https://gitlab.com/eliesat/scripts/-/raw/main/feed/oe-picons-feed.sh",
+          "1.0"
+        ],
+        [
+          "OE Alliance Settings Feed",
+          "https://gitlab.com/eliesat/scripts/-/raw/main/feed/oe-settings-feed.sh",
+          "1.0"
+        ],
+        [
+          "OpenATV Softcam Feed",
+          "https://gitlab.com/eliesat/scripts/-/raw/main/feed/openatv-softcam-feed.sh",
+          "1.0"
+        ],
+        [
+          "Pure2 Softcam Feed",
+          "https://gitlab.com/eliesat/scripts/-/raw/main/feed/pure2-softcam-feed.sh",
+          "1.0"
+        ],
+        [
+          "Tarek Feed",
+          "https://gitlab.com/eliesat/scripts/-/raw/main/feed/tarek-feed.sh",
+          "1.0"
+        ],
+        [
+          "Install Runtime Dependencies",
+          "https://gitlab.com/eliesat/scripts/-/raw/main/all/_update-dependencies.sh",
+          "1.0"
+        ],
+        [
+          "Install Audio / GStreamer Dependencies",
+          "https://gitlab.com/eliesat/scripts/-/raw/main/all/_update-dependencies-audio.sh",
+          "1.0"
+        ],
+        [
+          "OPKG Tools",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/opkg-tools/opkg-tools.sh",
+          "1.2"
+        ]
+      ]
+    },
+    {
+      "Title": "11 - Display, Bootlogos & LCD / العرض والإقلاع",
+      "links": [
+        [
+          "Boot Video - Enigma2",
+          "https://gitlab.com/eliesat/display/-/raw/main/bootvideo/enigma2.sh",
+          "1.0"
+        ],
+        [
+          "Boot Video - OpenATV",
+          "https://gitlab.com/eliesat/display/-/raw/main/bootvideo1/openatv.sh",
+          "1.0"
+        ],
+        [
+          "Bootlogos - OpenATV",
+          "https://gitlab.com/eliesat/display/-/raw/main/openatv-neutral/openatv.sh",
+          "1.0"
+        ],
+        [
+          "Bootlogos - OpenPLI",
+          "https://gitlab.com/eliesat/display/-/raw/main/openpli-neutral/openpli.sh",
+          "1.0"
+        ],
+        [
+          "Bootlogos - Pure2",
+          "https://gitlab.com/eliesat/display/-/raw/main/pure2-neutral/pure2.sh",
+          "1.0"
+        ],
+        [
+          "Bootlogos - Nature",
+          "https://gitlab.com/eliesat/display/-/raw/main/nature/bootlogos-nature.sh",
+          "1.0"
+        ],
+        [
+          "Bootlogos - Ramadan",
+          "https://gitlab.com/eliesat/display/-/raw/main/ramadan/bootlogos-ramadan.sh",
+          "1.0"
+        ],
+        [
+          "Bootlogos - Smart",
+          "https://gitlab.com/eliesat/display/-/raw/main/smart/bootlogos-smart.sh",
+          "1.0"
+        ],
+        [
+          "LCD Skin 1 - Vu+ Uno",
+          "https://gitlab.com/eliesat/display/-/raw/main/lcdskin/lcdskin-1.sh",
+          "1.0"
+        ],
+        [
+          "LCD Skin 5 - Vu+ Uno",
+          "https://gitlab.com/eliesat/display/-/raw/main/lcdskin/lcdskin-5.sh",
+          "1.0"
+        ],
+        [
+          "LCD Skin 10 - Vu+ Uno",
+          "https://gitlab.com/eliesat/display/-/raw/main/lcdskin/lcdskin-10.sh",
+          "1.0"
+        ],
+        [
+          "Splash Images - Vu+",
+          "https://gitlab.com/eliesat/display/-/raw/main/splash/splash.sh",
+          "1.0"
+        ],
+        [
+          "Radio Logo Pack 1",
+          "https://gitlab.com/eliesat/display/-/raw/main/radiologo/radiologo-1.sh",
+          "1.0"
+        ],
+        [
+          "Radio Logo Pack 6",
+          "https://gitlab.com/eliesat/display/-/raw/main/radiologo/radiologo-6.sh",
+          "1.0"
+        ],
+        [
+          "Spinner Selector",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/spinner-selector/spinner-selector.sh",
+          "3.3"
+        ]
+      ]
+    },
+    {
+      "Title": "12 - Image Download Scripts / تنزيل الصور الخام",
+      "links": [
+        [
+          "OpenATV 7.4 Images",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/images-download/openatv-7.4.sh",
+          "Python 3.12.4"
+        ],
+        [
+          "OpenATV 7.5 Images",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/images-download/openatv-7.5.sh",
+          "Python 3.12.6"
+        ],
+        [
+          "OpenATV 7.6 Images",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/images-download/openatv-7.6.sh",
+          "Python 3.13"
+        ],
+        [
+          "OpenATV 8.0 Images",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/images-download/openatv-8.0.sh",
+          "Python 3.14"
+        ],
+        [
+          "OpenBH 5.4 Images",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/images-download/openblackhole-5.4.sh",
+          "Python 3.12"
+        ],
+        [
+          "OpenBH 5.5 Images",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/images-download/openblackhole-5.5.1.sh",
+          "Python 3.13"
+        ],
+        [
+          "OpenBH 5.6 Images",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/images-download/openblackhole-5.6.sh",
+          "Python 3.13"
+        ],
+        [
+          "OpenPLI 9.2 Images",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/images-download/openpli-9.2.sh",
+          "Python 3.9.9"
+        ],
+        [
+          "OpenPLI Scarthgap Images",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/images-download/openpli-scarthgap.sh",
+          "Experimental"
+        ],
+        [
+          "OpenSPA 8.5 Images",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/images-download/openspa-8.5.sh",
+          "Python 3.12"
+        ],
+        [
+          "OpenSPA 8.6 Images",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/images-download/openspa-8.6.sh",
+          "Python 3.13"
+        ],
+        [
+          "OpenVix 6.8 Images",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/images-download/openvix.sh",
+          "N/A"
+        ],
+        [
+          "Pure2 7.6 Images",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/images-download/pure2-7.6.sh",
+          "Python 3.13"
+        ]
+      ]
+    },
+    {
+      "Title": "13 - DNS & Safe Maintenance / صيانة آمنة",
+      "links": [
+        [
+          "DNS - Cloudflare",
+          "https://raw.githubusercontent.com/eliesat/oe2/main/allineone/all/_dns-cloudflare-installer.sh",
+          "1.0"
+        ],
+        [
+          "DNS - Google",
+          "https://raw.githubusercontent.com/eliesat/oe2/main/allineone/all/_dns-google-installer.sh",
+          "1.0"
+        ],
+        [
+          "DNS - OpenDNS",
+          "https://raw.githubusercontent.com/eliesat/oe2/main/allineone/all/_dns-opendns-installer.sh",
+          "1.0"
+        ],
+        [
+          "DNS - Quad9",
+          "https://raw.githubusercontent.com/eliesat/oe2/main/allineone/all/_dns-quad9-installer.sh",
+          "1.0"
+        ],
+        [
+          "DNS - Restore Default",
+          "https://raw.githubusercontent.com/eliesat/oe2/main/allineone/all/_dns-remove.sh",
+          "1.0"
+        ],
+        [
+          "Fix IPK Installation",
+          "https://raw.githubusercontent.com/eliesat/oe2/main/allineone/all/_fix-ipk-package-installation.sh",
+          "1.0"
+        ],
+        [
+          "Fix Inodes / No Space",
+          "https://raw.githubusercontent.com/eliesat/oe2/main/allineone/all/_fix-hdd--space-inodes.sh",
+          "1.0"
+        ],
+        [
+          "Update Package Feeds",
+          "https://gitlab.com/eliesat/scripts/-/raw/main/all/_Install-update.sh",
+          "1.0"
+        ],
+        [
+          "Remove Crash Logs",
+          "https://raw.githubusercontent.com/eliesat/oe2/main/allineone/remove/_remove-crash-logs.sh",
+          "1.0"
+        ],
+        [
+          "Update Script List",
+          "https://raw.githubusercontent.com/eliesat/oe2/main/allineone/all/_scripts-update.sh",
+          "1.0"
+        ],
+        [
+          "Fix Script Permissions",
+          "https://raw.githubusercontent.com/eliesat/oe2/main/allineone/all/_scripts_chmod.sh",
+          "1.0"
+        ]
+      ]
+    },
+    {
+      "Title": "14 - WiFi & Kernel Drivers / التعريفات",
+      "links": [
+        [
+          "WiFi MT7601U r2",
+          "https://gitlab.com/eliesat/drivers/-/raw/main/network-usb-mt7601u-1.0-r2.sh",
+          "1.0.r2"
+        ],
+        [
+          "WiFi RT3070",
+          "https://gitlab.com/eliesat/drivers/-/raw/main/network-usb-rt3070-1.0-r0.sh",
+          "1.0.r0"
+        ],
+        [
+          "WiFi RT3573",
+          "https://gitlab.com/eliesat/drivers/-/raw/main/network-usb-rt3573-1.0-r0.sh",
+          "1.0.r0"
+        ],
+        [
+          "WiFi Novaler",
+          "https://gitlab.com/eliesat/drivers/-/raw/main/network-usb-novaler-1.0.sh",
+          "1.0.r0"
+        ],
+        [
+          "Zgemma H7 NandSim",
+          "https://gitlab.com/eliesat/drivers/-/raw/main/kernel-module-nandsim-h7.sh",
+          "1.0.r0"
+        ],
+        [
+          "Zgemma H9 NandSim",
+          "https://gitlab.com/eliesat/drivers/-/raw/main/kernel-module-nandsim-h9.sh",
+          "1.0.r0"
+        ]
+      ]
+    },
+    {
+      "Title": "15 - Islamic & Radio / إسلاميات وراديو",
+      "links": [
+        [
+          "Ansite Quran Radio",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/ansite/ansite.sh",
+          "1.10"
+        ],
+        [
+          "Athan Times",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/athantimes/athantimes.sh",
+          "2.8"
+        ],
+        [
+          "Azkar Al-Muslim",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/azkar-almuslim/azkar-almuslim.sh",
+          "1.1"
+        ],
+        [
+          "Iqraa Quran",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/iqraaquran/iqraaquran.sh",
+          "1.2"
+        ],
+        [
+          "Mawaqit",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/mawaqit/mawaqit.sh",
+          "1.1"
+        ],
+        [
+          "Quran Karim",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/quran-karim/quran-karim.sh",
+          "2.2"
+        ],
+        [
+          "HDF Radio",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/hdfradio/hdfradio.sh",
+          "2.22.4"
+        ],
+        [
+          "RadioM",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/radiom/radiom.sh",
+          "1.5"
         ]
       ]
     }

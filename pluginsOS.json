@@ -1,26 +1,287 @@
 {
   "Plugins": [
     {
-      "Title": "Multimedia",
+      "Title": "01 - Panels / البانلات",
       "links": [
         [
-          "Example Player",
-          "https://your-domain.example/files/python3-enigma2-plugin-extensions-exampleplayer_1.2_all.deb",
-          "1.2"
+          "AJPanel",
+          "https://raw.githubusercontent.com/AMAJamry/AJPanel/main/installer.sh",
+          "N/A"
         ],
         [
-          "Example Script",
-          "https://your-domain.example/files/example-installer.sh"
+          "Eliesat Panel",
+          "https://gitlab.com/eliesat/eliesatpanel/-/raw/main/eliesatpanel.sh",
+          "N/A"
+        ],
+        [
+          "Emil Panel Pro",
+          "https://github.com/emilnabil/download-plugins/raw/refs/heads/main/EmilPanelPro/emilpanelpro.sh",
+          "N/A"
+        ],
+        [
+          "Levi Addon Manager",
+          "https://raw.githubusercontent.com/levi-45/Addon/main/installer.sh",
+          "N/A"
+        ],
+        [
+          "Linuxsat Panel",
+          "https://raw.githubusercontent.com/Belfagor2005/LinuxsatPanel/main/installer.sh",
+          "N/A"
         ]
       ]
     },
     {
-      "Title": "System",
+      "Title": "02 - Softcams DEB / كامات DreamOS",
       "links": [
         [
-          "Example Tool",
-          "https://your-domain.example/files/python3-enigma2-plugin-extensions-exampletool_2.0_all.deb",
-          "2.0"
+          "Oscam Audi06",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/softcams/audi06/oscam.sh",
+          "11958.emu.r802"
+        ],
+        [
+          "Oscam Youchie",
+          "https://gitlab.com/eliesat/softcams/-/raw/main/youchie/oscam.sh",
+          "11886.emu.r803"
+        ],
+        [
+          "Oscam iCam New",
+          "https://gitlab.com/eliesat/softcams/-/raw/main/kite888/oscamicamnew-kite888.sh",
+          "11886.emu.r802"
+        ],
+        [
+          "Oscam Levi45",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/softcams/levi45/oscam.sh",
+          "11965.emu.r803"
+        ],
+        [
+          "Oscam Mohamed OS",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/softcams/mohamed_os/oscam.sh",
+          "11965.emu.r802"
+        ],
+        [
+          "Ncam",
+          "https://gitlab.com/eliesat/softcams/-/raw/main/mohamed-os/ncam.sh",
+          "15.2"
+        ],
+        [
+          "Ncam Fairbird",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/softcams/fairbird/ncam.sh",
+          "15.8.r0"
+        ]
+      ]
+    },
+    {
+      "Title": "03 - IPTV Clients / مشغلات IPTV",
+      "links": [
+        [
+          "BouquetMakerXtream",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/bouquetmakerxtream/bouquetmakerxtream.sh",
+          "1.77"
+        ],
+        [
+          "E2iPlayer OEM",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/e2iplayer-oem/e2iplayer-oem.sh",
+          "07.06.2026"
+        ],
+        [
+          "E2M3U2Bouquet",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/e2m3u2bouquet/e2m3u2bouquet.sh",
+          "3.0.3"
+        ],
+        [
+          "JediMakerXtream",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/jedimakerxtream/jedimakerxtream.sh",
+          "6.40"
+        ],
+        [
+          "XKlass",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/xklass/xklass.sh",
+          "1.80"
+        ],
+        [
+          "XPortal",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/xportal/xportal.sh",
+          "4.1"
+        ],
+        [
+          "XStreamity",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/xstreamity/xstreamity.sh",
+          "5.57"
+        ]
+      ]
+    },
+    {
+      "Title": "04 - Utilities & Translation / أدوات وترجمة",
+      "links": [
+        [
+          "Arabic Savior",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/arabicsavior/arabicsavior.sh",
+          "2.5"
+        ],
+        [
+          "AI Subtitles Hybrid",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/aisubtitle-hybrid/aisubtitle-hybrid.sh",
+          "2.5"
+        ],
+        [
+          "AI Translate",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/aitranslate/aitranslate.sh",
+          "3.1"
+        ],
+        [
+          "Crash Log Viewer",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/crashlogviewer/crashlogviewer.sh",
+          "1.8"
+        ],
+        [
+          "File Commander",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/filecommander/filecommander.sh",
+          "2024.08.31"
+        ],
+        [
+          "Hardware Info",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/hardwareinfo/hardwareinfo.sh",
+          "5.2"
+        ],
+        [
+          "Internet Speed Test",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/internetspeedtest/internetspeedtest.sh",
+          "1.7"
+        ],
+        [
+          "SubsSupport Pro",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/subssupportpro/subssupportpro.sh",
+          "1.0.2"
+        ],
+        [
+          "WireGuard VPN",
+          "https://gitlab.com/eliesat/extensions/-/raw/main/wireguard-vpn/wireguard-vpn.sh",
+          "15.6"
+        ]
+      ]
+    },
+    {
+      "Title": "05 - Picons & Settings / بيكونات وقنوات",
+      "links": [
+        [
+          "Motor Picons - Service Name",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/picons/picons-all.sh",
+          "16.06.2026"
+        ],
+        [
+          "Picons 7.0W",
+          "https://gitlab.com/eliesat/picons/-/raw/main/picons-7w.sh",
+          "25.01.2026"
+        ],
+        [
+          "Picons 13.0E",
+          "https://gitlab.com/eliesat/picons/-/raw/main/picons-13e.sh",
+          "12.01.2026"
+        ],
+        [
+          "Picons 19.2E",
+          "https://gitlab.com/eliesat/picons/-/raw/main/picons-19.2e.sh",
+          "13.01.2026"
+        ],
+        [
+          "Picons 26.0E",
+          "https://gitlab.com/eliesat/picons/-/raw/main/picons-26e.sh",
+          "12.01.2026"
+        ],
+        [
+          "Picons 28.2E",
+          "https://gitlab.com/eliesat/picons/-/raw/main/picons-28e.sh",
+          "13.01.2026"
+        ],
+        [
+          "Satellites.xml",
+          "https://gitlab.com/eliesat/picons/-/raw/main/satellites.xml.sh",
+          "25.05.2026"
+        ],
+        [
+          "Ciefp Motor Settings",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/settings/motor/ciefp-motor.sh",
+          "01.07.2026"
+        ],
+        [
+          "Hamid Motor Settings",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/settings/motor/hamid-motor.sh",
+          "27.06.2026"
+        ],
+        [
+          "Mnasr Motor Settings",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/settings/motor/mnasr-motor.sh",
+          "27.05.2026"
+        ],
+        [
+          "Frequency List - OE Alliance",
+          "https://gitlab.com/eliesat/settings/-/raw/main/oe-alliance/installer.sh",
+          "up-to-date"
+        ]
+      ]
+    },
+    {
+      "Title": "06 - DreamOS Feed & Common Tools / فيد دريم",
+      "links": [
+        [
+          "DreamArabia Feed",
+          "https://raw.githubusercontent.com/eliesatpanelgrid/dream_os/main/feeds/dreamarabbia/feed-dreamarabia.sh",
+          "1.0"
+        ],
+        [
+          "Eliesat Feed",
+          "https://gitlab.com/eliesat/scripts/-/raw/main/feed/eliesat-feed.sh",
+          "1.0"
+        ],
+        [
+          "DNS - Cloudflare",
+          "https://raw.githubusercontent.com/eliesat/oe2/main/allineone/all/_dns-cloudflare-installer.sh",
+          "1.0"
+        ],
+        [
+          "DNS - Google",
+          "https://raw.githubusercontent.com/eliesat/oe2/main/allineone/all/_dns-google-installer.sh",
+          "1.0"
+        ],
+        [
+          "DNS - Restore Default",
+          "https://raw.githubusercontent.com/eliesat/oe2/main/allineone/all/_dns-remove.sh",
+          "1.0"
+        ],
+        [
+          "Remove Crash Logs",
+          "https://raw.githubusercontent.com/eliesat/oe2/main/allineone/remove/_remove-crash-logs.sh",
+          "1.0"
+        ]
+      ]
+    },
+    {
+      "Title": "07 - Display / الإقلاع والعرض",
+      "links": [
+        [
+          "Boot Video - Enigma2",
+          "https://gitlab.com/eliesat/display/-/raw/main/bootvideo/enigma2.sh",
+          "1.0"
+        ],
+        [
+          "Bootlogos - Nature",
+          "https://gitlab.com/eliesat/display/-/raw/main/nature/bootlogos-nature.sh",
+          "1.0"
+        ],
+        [
+          "Bootlogos - Ramadan",
+          "https://gitlab.com/eliesat/display/-/raw/main/ramadan/bootlogos-ramadan.sh",
+          "1.0"
+        ],
+        [
+          "Bootlogos - Smart",
+          "https://gitlab.com/eliesat/display/-/raw/main/smart/bootlogos-smart.sh",
+          "1.0"
+        ],
+        [
+          "Radio Logo Pack 1",
+          "https://gitlab.com/eliesat/display/-/raw/main/radiologo/radiologo-1.sh",
+          "1.0"
         ]
       ]
     }
